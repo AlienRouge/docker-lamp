@@ -1,2 +1,2 @@
 <?php
-echo "Hello word!" . PHP_EOL;
+echo "Hello from Docker php";
